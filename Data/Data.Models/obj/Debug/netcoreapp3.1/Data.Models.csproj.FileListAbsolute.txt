@@ -1,0 +1,9 @@
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\bin\Debug\netcoreapp3.1\Data.Models.deps.json
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\bin\Debug\netcoreapp3.1\Data.Models.dll
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\bin\Debug\netcoreapp3.1\Data.Models.pdb
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.csprojAssemblyReference.cache
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.AssemblyInfoInputs.cache
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.AssemblyInfo.cs
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.dll
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data\Data.Models\obj\Debug\netcoreapp3.1\Data.Models.pdb

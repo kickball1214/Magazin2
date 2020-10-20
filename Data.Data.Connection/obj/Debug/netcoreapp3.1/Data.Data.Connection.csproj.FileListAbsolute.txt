@@ -1,0 +1,15 @@
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Data.Connection.deps.json
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Data.Connection.dll
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.csprojAssemblyReference.cache
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.AssemblyInfoInputs.cache
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.AssemblyInfo.cs
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Data.Connection.runtimeconfig.json
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Data.Connection.runtimeconfig.dev.json
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.genruntimeconfig.cache
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Data.Connection.pdb
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Models.dll
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\bin\Debug\netcoreapp3.1\Data.Models.pdb
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.csproj.CopyComplete
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.dll
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.pdb
+D:\SoftwareEngineer\API 2Kurs\SuperStore\src\Data.Data.Connection\obj\Debug\netcoreapp3.1\Data.Data.Connection.csproj.CoreCompileInputs.cache
